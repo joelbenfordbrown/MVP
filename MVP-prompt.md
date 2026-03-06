@@ -6,10 +6,10 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║               MVP — MINIMUM VIABLE PROMPT                ║
-║                           V.1                            ║
+║                           V.2                            ║
 ║               Guided Session Configuration               ║
 ║                            by                            ║
-║           https://www.linkedin.com/in/joelbb/            ║
+║           https://github.com/joelbenfordbrown            ║
 ╚══════════════════════════════════════════════════════════╝
 
 INSTRUCTIONS FOR THE AI (read first, then begin):
