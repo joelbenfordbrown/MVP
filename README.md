@@ -55,18 +55,19 @@ In the mood for some spontaneous creativity? Once your session is running, type 
 
 ---
 
-## Read the full article
+## Related Work
 
-For the full thinking behind the MVP — including why most AI conversations fail before they begin, and how the guided onboarding model changes everything:
+If you found the MVP useful, you may also be interested in the **Enforcing Consistent Claude Behaviour Across Claude Chat & Claude Code** guide — a practical field guide for getting reliable, repeatable results from Claude specifically, including system prompt templates, CLAUDE.md structure, and a diagnostic failure modes reference.
 
-[The Minimum Viable Prompt (MVP) — LinkedIn Article](https://www.linkedin.com/pulse/minimum-viable-prompt-mvp-joel-benford-brown-zfege)
+[github.com/joelbenfordbrown/claude-consistency-guide](https://github.com/joelbenfordbrown/claude-consistency-guide)
 
 ---
 
 ## Author
 
-**Joel Benford-Brown | Cognitive Architect**  
-LinkedIn: https://www.linkedin.com/in/joelbb/
+**Joel Benford-Brown** is a cognitive architect and applied psychologist, and founder of the GHOST AI Framework — a theoretical framework for artificial personality, synthetic sentience and ethical agency. He works at the nexus of psychology and technology. [ghostai.fr](https://ghostai.fr)
+
+GitHub: [github.com/joelbenfordbrown](https://github.com/joelbenfordbrown)
 
 ---
 
